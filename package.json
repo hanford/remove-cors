@@ -1,0 +1,15 @@
+{
+  "name": "strip-cors",
+  "version": "1.0.0",
+  "main": "./index.mjs",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-http-proxy": "^1.6.3",
+    "vercel": "^28.10.1"
+  }
+}
